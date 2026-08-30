@@ -11,10 +11,21 @@
 <p align="center"><i>Traded laminated dough for layered abstractions.</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/42-School-000000?style=for-the-badge&logo=42&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-E8A33D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Former%20job-Pastry%20Chef-E85D4B?style=for-the-badge" />
+  <a href="https://42nice.fr/">
+    <img src="https://img.shields.io/badge/42-School-000000?style=for-the-badge&logo=42&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kock-sacha/">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-E8A33D?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/TON_USERNAME/">
+    <img src="https://img.shields.io/badge/Former%20job-Pastry%20Chef-E85D4B?style=for-the-badge" />
+  </a>
 </p>
+
+
+
 
 ---
 
